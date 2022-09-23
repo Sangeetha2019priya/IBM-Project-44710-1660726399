@@ -1,0 +1,48 @@
+                            LITERATURE SURVEY
+                    SIGN WITH SMART CONNECTIVITY FOR BETTER ROAD SAFETY
+
+
+                  Road safety, trafic congestion and efficiency of tha transpoart
+                  sector are major global concerns.Improving this is tha primary
+                  objective of intelligent transport system (IOT) based solution
+                  for ITS would enable motorists to obtain prior contextual
+                  guidance to reduce congestion and potential hazards .IOT based
+                  solution enabling collection of data from client nodes in a
+                  wireless sensor network in a transport environment  implementing
+                  ITS goals is studied .The parameter to be monitered ,type of sensor 
+                  and communication related design parameter are iddentify to develope 
+                  an effective IOT based solution. Road safety technique studied include
+                  distance sensing, imporper driving detection and accident avioddance. 
+                  Vehile to vehile communication and vehile to infrastructre based
+                  channel are stuided. Wireless communication technologies suitable for 
+                  channel are studied. additional benefits and survices that can be added 
+                  to a system with the IOT approach are also studied. The effectiveness
+                  of such a system is studied is the use of validation feamwork. Multiple
+                  case studies of cueernt and future IOT based ITS along with the challenge 
+                  in the appication is discussed.
+                  
+                  ROAD SAFETY AUDIT IN INDIA
+                    A review ISSN:2347-4718 This paper had reviewed the concept of the mad 
+                  safety audit and its stages.Object of the RSA is to evalute vrntures for
+                 potential mishaps end lessioning on the premise of mad client learning
+                 characteristics and aptitude, day right road condiction. It suggested
+                 on outline and design, markings,signs,signals,lighting point of interest,
+                 Detail Design of function,Design of geometrics. cross-fall marking and
+                 signs, side drains.Embankment slpos, presence of clear zone,Traffic Signal 
+                 lignting.
+
+                  ROAD SAFETY ANALYSIS USING MULTI CRITERIA APPOROACH,A CASE STUDY IN INDIA
+                 
+                    World conference on Transport Research-WCTR 2016 Shanghai.10-15 july
+                  2016 In this paper a study was carrier out to determine the priority
+                  of safety requirement of a certain category of rural roads,viz,.
+                  pradhan mantri gram sadal yojana (PMGSY) road in the district of rajasthan
+                  india.Multi-criteria technique werw used to quantity the safety levels
+                  Turther analysis was done on the road having the worst safety feature to
+                  rank various strcture.
+
+                  REFERENCE:
+                 [1] Cyberabad Traffic Police(2017)
+                 [2] Francis John Gichaga, The impact of Road improvement on road safety and
+                 related characterics.IATSS Reseacher (2016),University of Nairobi, Kenya
+                
